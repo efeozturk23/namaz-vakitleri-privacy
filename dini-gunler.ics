@@ -1,0 +1,1704 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Namaz Vakti//Dini Gunler//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dini Günler
+X-WR-CALDESC:Diyanet İşleri Başkanlığı'nın resmi dini günler listes
+ i: kandiller\, bayramlar\, Ramazan ve diğer önemli günler. 2028 sonras
+ ı bazı tarihler Hicri ay başlangıçları kesinleştikçe bir gün değ
+ işebilir.
+X-WR-TIMEZONE:Europe/Istanbul
+X-APPLE-CALENDAR-COLOR:#2F7D5A
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:dini-gun-20260115-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Miraç Kandili
+DESCRIPTION:26 Receb 1447\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mescid-
+ i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'ın
+  huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gecesi
+  kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet edi
+ lir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260202-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Berat Kandili
+DESCRIPTION:14 Şaban 1447\n\nŞaban ayının 15. gecesidir. Kulların bir 
+ yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına inan
+ ılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilmesi 
+ tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260219-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1447\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260316-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26 Ramazan 1447\n\nKur'an-ı Kerim'in indirilmeye başlandığ
+ ı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; yayg
+ ın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edilm
+ esi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260319-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Arefe
+DESCRIPTION:29 Ramazan 1447\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260320-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260323
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1447 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260526-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1447\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260527-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260531
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1447 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260616-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1448\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260625-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1448\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20260824-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11 Rebiülevvel 1448\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in 
+ doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\nKa
+ ynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20261210-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Regaib Kandili
+DESCRIPTION:1 Receb 1448\n\nReceb ayının ilk cuma gecesidir\; üç aylar
+ ın ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilmesi tavsiy
+ e edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20261210-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1448\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270104-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Miraç Kandili
+DESCRIPTION:26 Receb 1448\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mescid-
+ i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'ın
+  huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gecesi
+  kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet edi
+ lir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270122-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Berat Kandili
+DESCRIPTION:14 Şaban 1448\n\nŞaban ayının 15. gecesidir. Kulların bir 
+ yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına inan
+ ılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilmesi 
+ tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270208-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1448\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270305-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26 Ramazan 1448\n\nKur'an-ı Kerim'in indirilmeye başlandığ
+ ı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; yayg
+ ın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edilm
+ esi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270308-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Arefe
+DESCRIPTION:29 Ramazan 1448\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270309-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1448 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270515-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1448\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270516-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270520
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1448 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270606-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1449\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270615-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1449\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20270813-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11 Rebiülevvel 1449\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in 
+ doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\nKa
+ ynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20271129-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1449\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20271202-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:Regaib Kandili
+DESCRIPTION:4 Receb 1449\n\nReceb ayının ilk cuma gecesidir\; üç aylar
+ ın ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilmesi tavsiy
+ e edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20271224-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Miraç Kandili
+DESCRIPTION:26 Receb 1449\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mescid-
+ i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'ın
+  huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gecesi
+  kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet edi
+ lir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280112-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:Berat Kandili
+DESCRIPTION:14/15 Şaban 1449\n\nŞaban ayının 15. gecesidir. Kulların b
+ ir yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına i
+ nanılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilme
+ si tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280128-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1449\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280223-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26/27 Ramazan 1449\n\nKur'an-ı Kerim'in indirilmeye başlandı
+ ğı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; ya
+ ygın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edi
+ lmesi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280225-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:Arefe
+DESCRIPTION:29 Ramazan 1449\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280226-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280229
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1449 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280504-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1449\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280505-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280509
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1449 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280525-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1450\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280603-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1450\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20280803-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11/12 Rebiülevvel 1450\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'
+ in doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\
+ nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20281118-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20281118
+DTEND;VALUE=DATE:20281119
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1450\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20281124-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:Regaib Kandili
+DESCRIPTION:6/7 Receb 1450\n\nReceb ayının ilk cuma gecesidir\; üç ayla
+ rın ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilmesi tavsi
+ ye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20281214-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:Miraç Kandili
+DESCRIPTION:26/27 Receb 1450\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mesc
+ id-i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'
+ ın huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gec
+ esi kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet 
+ edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20281231-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Berat Kandili
+DESCRIPTION:14/15 Şaban 1450\n\nŞaban ayının 15. gecesidir. Kulların b
+ ir yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına i
+ nanılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilme
+ si tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290116-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1450\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290211-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290211
+DTEND;VALUE=DATE:20290212
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26/27 Ramazan 1450\n\nKur'an-ı Kerim'in indirilmeye başlandı
+ ğı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; ya
+ ygın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edi
+ lmesi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290213-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Arefe
+DESCRIPTION:29 Ramazan 1450\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290214-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290217
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1450 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290423-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290423
+DTEND;VALUE=DATE:20290424
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1450\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290424-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290428
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1450 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290514-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1451\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290523-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290523
+DTEND;VALUE=DATE:20290524
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1451\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20290724-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11/12 Rebiülevvel 1451\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'
+ in doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\
+ nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20291107-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1451\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20291109-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20291109
+DTEND;VALUE=DATE:20291110
+SUMMARY:Regaib Kandili
+DESCRIPTION:2/3 Receb 1451\n\nReceb ayının ilk cuma gecesidir\; üç ayla
+ rın ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilmesi tavsi
+ ye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20291203-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20291203
+DTEND;VALUE=DATE:20291204
+SUMMARY:Miraç Kandili
+DESCRIPTION:26/27 Receb 1451\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mesc
+ id-i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'
+ ın huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gec
+ esi kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet 
+ edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20291221-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:Berat Kandili
+DESCRIPTION:14/15 Şaban 1451\n\nŞaban ayının 15. gecesidir. Kulların b
+ ir yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına i
+ nanılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilme
+ si tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300105-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300106
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1451\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300131-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26/27 Ramazan 1451\n\nKur'an-ı Kerim'in indirilmeye başlandı
+ ğı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; ya
+ ygın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edi
+ lmesi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300203-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:Arefe
+DESCRIPTION:30 Ramazan 1451\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300204-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300207
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1451 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300412-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300412
+DTEND;VALUE=DATE:20300413
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1451\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300413-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300413
+DTEND;VALUE=DATE:20300417
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1451 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300503-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1452\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300512-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300512
+DTEND;VALUE=DATE:20300513
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1452\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20300713-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11/12 Rebiülevvel 1452\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'
+ in doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\
+ nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20301028-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20301028
+DTEND;VALUE=DATE:20301029
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1452\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20301101-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20301101
+DTEND;VALUE=DATE:20301102
+SUMMARY:Regaib Kandili
+DESCRIPTION:4/5 Receb 1452\n\nReceb ayının ilk cuma gecesidir\; üç ayla
+ rın ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilmesi tavsi
+ ye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20301123-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20301123
+DTEND;VALUE=DATE:20301124
+SUMMARY:Miraç Kandili
+DESCRIPTION:26/27 Receb 1452\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mesc
+ id-i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'
+ ın huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gec
+ esi kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet 
+ edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20301210-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:Berat Kandili
+DESCRIPTION:14/15 Şaban 1452\n\nŞaban ayının 15. gecesidir. Kulların b
+ ir yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına i
+ nanılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilme
+ si tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20301226-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1452\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310121-kadir-gecesi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310121
+DTEND;VALUE=DATE:20310122
+SUMMARY:Kadir Gecesi
+DESCRIPTION:26/27 Ramazan 1452\n\nKur'an-ı Kerim'in indirilmeye başlandı
+ ğı gecedir. Kadir Suresi'nde "bin aydan hayırlı" olarak nitelenir\; ya
+ ygın kanaate göre Ramazan'ın 27. gecesidir ve dua\, tövbe ile ihya edi
+ lmesi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kadir Gecesi
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310123-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:Arefe
+DESCRIPTION:29 Ramazan 1452\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310124-ramazan-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310124
+DTEND;VALUE=DATE:20310127
+SUMMARY:Ramazan Bayramı
+DESCRIPTION:1 Şevval 1452 (3 gün)\n\nBir aylık Ramazan orucunun ardında
+ n kutlanan\, üç gün süren dini bayramdır. Bayram namazı kılınır\,
+  büyükler ziyaret edilir\, dargınlar barıştırılır.\n\nKaynak: Diya
+ net İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310401-arefe@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310401
+DTEND;VALUE=DATE:20310402
+SUMMARY:Arefe
+DESCRIPTION:9 Zilhicce 1452\n\nBayramdan bir önceki gündür. Ramazan Bayr
+ amı arefesi orucun son günü\, Kurban Bayramı arefesi ise hacıların A
+ rafat'ta vakfeye durduğu\, dua ve ibadetle geçirilmesi tavsiye edilen g
+ ündür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arefe
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310402-kurban-bayrami@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310402
+DTEND;VALUE=DATE:20310406
+SUMMARY:Kurban Bayramı
+DESCRIPTION:10 Zilhicce 1452 (4 gün)\n\nHz. İbrahim'in oğlunu Allah rız
+ ası için kurban etmeye hazır oluşunun anıldığı\, dört gün süren
+  İslam'ın en büyük bayramlarından biridir. Kurban kesilir\, etler pay
+ laşılır\, akraba ziyaretleri yapılır.\n\nKaynak: Diyanet İşleri Ba
+ şkanlığı
+CATEGORIES:Bayram
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kurban Bayramı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310423-hicri-yilbasi@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310423
+DTEND;VALUE=DATE:20310424
+SUMMARY:Hicri Yılbaşı
+DESCRIPTION:1 Muharrem 1453\n\nHz. Muhammed (s.a.v.)'in Mekke'den Medine'ye
+  hicretiyle başlayan Hicri takvimin ilk günü\, Muharrem ayının 1. gü
+ nüdür.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hicri Yılbaşı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310502-asure-gunu@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310502
+DTEND;VALUE=DATE:20310503
+SUMMARY:Aşure Günü
+DESCRIPTION:10 Muharrem 1453\n\nMuharrem ayının 10. günüdür. Hz. Nuh'u
+ n gemisinin karaya oturması\, Hz. Musa'nın Firavun'dan kurtuluşu gibi p
+ ek çok önemli olayın bu günde yaşandığına inanılır\; aşure piş
+ irip komşularla paylaşmak gelenektir.\n\nKaynak: Diyanet İşleri Başka
+ nlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aşure Günü
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20310702-mevlid-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20310702
+DTEND;VALUE=DATE:20310703
+SUMMARY:Mevlid Kandili
+DESCRIPTION:11/12 Rebiülevvel 1453\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'
+ in doğum gecesidir\, Rebiülevvel ayının 11/12. gecesine denk gelir.\n\
+ nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mevlid Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20311017-regaib-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20311017
+DTEND;VALUE=DATE:20311018
+SUMMARY:Regaib Kandili
+DESCRIPTION:29 C.ahir/1 Receb 1453\n\nReceb ayının ilk cuma gecesidir\; 
+ üç ayların ve mübarek kandillerin ilkidir. Dua ve tövbe ile geçirilm
+ esi tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regaib Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20311017-uc-aylarin-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20311017
+DTEND;VALUE=DATE:20311018
+SUMMARY:Üç Ayların Başlangıcı
+DESCRIPTION:1 Receb 1453\n\nReceb\, Şaban ve Ramazan aylarından oluşan\,
+  manevi açıdan değerli kabul edilen "üç aylar"ın ilk günü olan Rec
+ eb ayının başlangıcıdır.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Üç Ayların Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20311112-mirac-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20311112
+DTEND;VALUE=DATE:20311113
+SUMMARY:Miraç Kandili
+DESCRIPTION:26/27 Receb 1453\n\nPeygamberimiz Hz. Muhammed (s.a.v.)'in Mesc
+ id-i Haram'dan Mescid-i Aksa'ya\, oradan da göklere yükseltilerek Allah'
+ ın huzuruna çıkarıldığına inanılan gecedir. Receb ayının 27. gec
+ esi kutlanır\; beş vakit namazın bu gecede farz kılındığı rivayet 
+ edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miraç Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20311130-berat-kandili@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20311130
+DTEND;VALUE=DATE:20311201
+SUMMARY:Berat Kandili
+DESCRIPTION:14/15 Şaban 1453\n\nŞaban ayının 15. gecesidir. Kulların b
+ ir yıllık rızık\, ecel ve amel defterlerinin yeniden yazıldığına i
+ nanılan mübarek gecelerden biridir\; tövbe\, dua ve ibadetle geçirilme
+ si tavsiye edilir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Kandil
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berat Kandili
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dini-gun-20311215-ramazan-baslangici@namazvakti.app
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20311215
+DTEND;VALUE=DATE:20311216
+SUMMARY:Ramazan Başlangıcı
+DESCRIPTION:1 Ramazan 1453\n\nBir ay boyunca sabahtan akşama kadar oruç t
+ utulan Ramazan ayının ilk günüdür. Ramazan\; sabır\, paylaşma\, dua
+  ve Kur'an ayı olarak bilinir.\n\nKaynak: Diyanet İşleri Başkanlığı
+CATEGORIES:Diğer
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ramazan Başlangıcı
+TRIGGER;RELATED=START:PT8H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
